@@ -68,7 +68,7 @@
                                     
                                     <run>
                                         <ports>
-                                            <port>8080:8080</port>
+                                            <port>8081:8081</port>
                                         </ports>
                                         <log>
                                             <prefix>WF</prefix>
