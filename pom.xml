@@ -62,7 +62,7 @@
                                             <user>jboss:jboss:jboss</user>
                                         </assembly>
                                         <ports>
-                                            <port>8080</port>
+                                            <port>8081</port>
                                         </ports>
                                     </build>
                                     
