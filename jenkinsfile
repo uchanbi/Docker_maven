@@ -6,7 +6,9 @@ pipeline {
            steps{
             withMaven(maven : 'maven'){
                 sh 'mvn package -Pdocker'
-            }
+                sh 'echo bihan'
+                
+                }
           } 
         } 
         stage('Testing Stage')
