@@ -1,5 +1,5 @@
 pipeline {
-    agent jenkins-slave
+    agent label
       stages {
         stage ('Compile Stage')
         {
